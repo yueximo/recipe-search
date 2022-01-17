@@ -1,3 +1,12 @@
+# Recipe Searcher
+
+A basic recipe searcher I made utilzing the Edamam Recipe Search API. The user can enter any food they want and see ten recipes with links to the recipe and a list of ingredients needed.
+
+## Here is what it looks like!
+![recipe search](https://user-images.githubusercontent.com/94990857/149737437-8d0e00ff-a701-4cc6-88ac-a8879b98873f.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
